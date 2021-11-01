@@ -2,5 +2,5 @@ This project is a list of links to recipes. I am creating it to illustrate the h
 
 This project will also allow me to practice using Git and Github.
 
-This has been an interesting project to work on. 
+This has been an interesting project to work on. I learned a lot about how everything comes together to create a simple website. 
 
