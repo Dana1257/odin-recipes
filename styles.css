@@ -3,10 +3,7 @@
     height:100%;
     background-color:lightpink;
     overflow-x:hidden;
-    overflow:scroll;
-    margin-bottom:0;
-    scroll-behavior:smooth;
-    }
+      }
     
 p{
     text-align:justify;
