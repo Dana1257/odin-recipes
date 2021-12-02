@@ -3,6 +3,7 @@
     background-color:lightpink;
     overflow-x:hidden;
     margin-bottom:0;
+    scroll-behavior:smooth;
     }
 
 p{
@@ -44,14 +45,17 @@ footer a{
     padding:15px;
 }
 
-ul{
+ul li a{
+    display:inline-block;
+    padding:15px;
+       }
+
+ul a{
     list-style-type:none;
 }
 
-ul li a{
+.remove-bullets{
     list-style-type:none;
-    display:inline-block;
-    padding:15px;
 }
 
 @media(min-width:300px){
