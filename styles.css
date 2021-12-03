@@ -39,23 +39,12 @@ li{
     object-fit:cover;
     }
 
-.img-10{
+img{
     width:100vw;
     height:70vw;
     object-fit:cover;
     }
-
-.img-11{
-    width:100vw;
-    height:70vw;
-    object-fit:cover;
-    }
-    
-.img-9{
-    width:100vw;
-    height:70vw;
-    object-fit:cover;
-        }
+        
 a,h1{
     font-family: 'Courgette', cursive;
         }
@@ -100,24 +89,12 @@ ul li a{
     font-size:25px;
          }
 
-.img-10{
+img{
     width:100vw;
     height:60vw;
     object-fit:cover;
     }
-    
-.img-11{
-    width:100vw;
-    height:60vw;
-    object-fit:cover;
-    }
-        
-.img-9{
-    width:100vw;
-    height:60vw;
-    object-fit:cover;
-            }
-        }
+      }
 
 @media(min-width:768px){
     
@@ -154,11 +131,10 @@ ul li a{
 }
  }
 
+@media(min-width:1200px){
 
 
 
-
-
-
-
+ }
+  
 
