@@ -153,7 +153,10 @@ html{
     display:flex;
     width:725px;
     justify-content:space-between;
-    margin-left:350px;
+    margin-left:24.9vw;
+    margin-right:24.9vw;
+    width:auto;
+    height:auto;
          }
 
 div ul li a{
@@ -164,7 +167,9 @@ div ul li a{
 
 .lined-up{
     margin-left:-20px;
-     }
+    display:flex;
+    justify-content:space-between;
+       }
 
 img{
     width:500px;
