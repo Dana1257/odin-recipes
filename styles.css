@@ -136,18 +136,24 @@ ul, ol{
 @media(min-width:1000px){
 
 img{
-    width:350px;
+    width:450px;
     height:auto;
     display:block;
     margin-left:auto;
     margin-right:auto;
                 }   
+.space{
+    line-height:normal;
+}
+
+#reduce{
+    line-height:1;
+}
                 
 body{
-    line-height:1;
-    margin-top:0;
-    margin-bottom:0;
-                }
+    margin:2px;
+    line-height:0.1em;
+      }
 
 .all-desserts{
     width:60vw;
