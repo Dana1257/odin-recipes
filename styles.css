@@ -146,10 +146,6 @@ img{
     line-height:normal;
 }
 
-#reduce{
-    line-height:1;
-}
-                
 body{
     margin:2px;
     line-height:0.1em;
@@ -249,7 +245,7 @@ body{
         }
 
 .space{
-    line-height:1;
+    line-height:normal;
 }
         
 p{
